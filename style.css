@@ -44,13 +44,13 @@ input[type="text"]{
   display: block;
   height: 50px;
   width: 97%;
-  border: 5px solid black;
+  border: 2px solid black;
 }
 input[type="email"]{
   display: block;
   height: 50px;
   width: 97%;
-  border: 5px solid black;
+  border: 2px solid black;
 }
 input[type="submit"]{
   display: block;
